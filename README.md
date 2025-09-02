@@ -10,6 +10,7 @@ Project structure
 
 ## Database Schema
 The database contains 5 core tables with relationships designed for normalization and efficiency:
+note: The dataset contained in this project is artificially generated for practice purposes only.
 * Airports – Stores airport codes, cities, and countries.
 * Flights – Flight details including origin, destination, departure/arrival times, aircraft type, and seat capacity.
 * Customers – Passenger information with loyalty program tiers.
