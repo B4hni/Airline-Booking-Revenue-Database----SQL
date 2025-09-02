@@ -1,0 +1,6 @@
+payment_id,booking_id,amount,payment_date,method
+1,1,750.0,2025-09-01,Credit Card
+2,2,680.0,2025-09-02,PayPal
+3,3,900.0,2025-09-03,Credit Card
+4,4,0.0,2025-09-04,N/A
+5,5,920.0,2025-09-05,Debit Card
